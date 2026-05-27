@@ -86,11 +86,9 @@ GROUP BY intern_id, intern_name, department;
 
 | Field | Value |
 |-------|-------|
-| Program/script | `C:\...\python.exe` |
+| Program | `C:\...\python.exe` |
 | Arguments | `C:\...\scripts\monthly_report.py` |
 | Trigger | Monthly — Day 1 — 8:00 AM |
-
-
 
 ---
 
