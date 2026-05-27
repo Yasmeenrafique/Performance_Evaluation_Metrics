@@ -1,0 +1,107 @@
+intern_id,intern_name,department,task_name,assigned_date,submitted_date,quality_score,mentor_rating,task_completion_days,quality_percent,overall_score,status,calc_days
+1002.0,Hassan,Marketing,Market Research,2026-03-27,2026-03-29,6.0,3.0,2.0,60.0,69.0,Needs Improvement,2.0
+1003.0,Hamza,Data Analytics,Market Research,2026-04-13,2026-04-20,7.0,5.0,7.0,70.0,74.5,Good,7.0
+1004.0,Ali,HR,SQL Report,2026-03-20,2026-03-25,6.0,3.0,5.0,60.0,64.5,Needs Improvement,5.0
+1005.0,Hamza,Marketing,Website Audit,2026-04-27,2026-05-02,7.0,5.0,5.0,70.0,77.5,Good,5.0
+1006.0,Sara,Finance,Performance Analysis,2026-02-20,2026-02-24,7.0,5.0,4.0,70.0,79.0,Good,4.0
+1007.0,Sara,UI/UX,Performance Analysis,2026-01-31,2026-02-04,10.0,4.0,4.0,100.0,90.0,Excellent,4.0
+1008.0,Noor,Finance,Customer Analysis,2026-04-10,2026-04-13,5.0,2.0,3.0,50.0,58.5,Needs Improvement,3.0
+1009.0,Ayesha,HR,Excel Automation,2026-04-30,2026-05-02,5.0,5.0,2.0,50.0,72.0,Good,2.0
+1010.0,Usman,Finance,Performance Analysis,2026-03-13,2026-03-14,10.0,3.0,1.0,100.0,90.5,Excellent,1.0
+1011.0,Hamza,HR,Power BI Visualization,2026-01-16,2026-01-17,6.0,2.0,1.0,60.0,66.5,Needs Improvement,1.0
+1012.0,Hamza,Data Analytics,Excel Automation,2026-01-31,2026-02-01,8.0,5.0,1.0,80.0,88.5,Excellent,1.0
+1013.0,Sara,UI/UX,SQL Report,2026-04-10,2026-04-11,8.0,3.0,1.0,80.0,80.5,Good,1.0
+1014.0,Ahmed,HR,Customer Analysis,2026-01-20,2026-01-27,6.0,3.0,7.0,60.0,61.5,Needs Improvement,7.0
+1015.0,Usman,HR,SQL Report,2026-04-01,2026-04-07,7.0,5.0,6.0,70.0,76.0,Good,6.0
+1016.0,Zain,Data Analytics,Attendance Tracker,2026-03-20,2026-03-25,7.0,5.0,5.0,70.0,77.5,Good,5.0
+1017.0,Sara,Data Analytics,Excel Automation,2026-01-14,2026-01-20,8.0,5.0,6.0,80.0,81.0,Good,6.0
+1018.0,Hamza,Marketing,Market Research,2026-04-01,2026-04-03,10.0,3.0,2.0,100.0,89.0,Excellent,2.0
+1019.0,Ayesha,Data Analytics,Excel Automation,2026-03-05,2026-03-10,7.0,5.0,5.0,70.0,77.5,Good,5.0
+1020.0,Ayesha,Data Analytics,Power BI Visualization,2026-03-24,2026-03-25,9.0,2.0,1.0,90.0,81.5,Good,1.0
+1021.0,Ahmed,UI/UX,Market Research,2026-01-05,2026-01-11,8.0,3.0,6.0,80.0,73.0,Good,6.0
+1022.0,Hamza,Marketing,Dashboard Design,2026-03-23,2026-03-26,6.0,4.0,3.0,60.0,71.5,Good,3.0
+1023.0,Usman,HR,Performance Analysis,2026-03-06,2026-03-13,7.0,5.0,7.0,70.0,74.5,Good,7.0
+1024.0,Ali,Marketing,Attendance Tracker,2026-04-23,2026-04-25,9.0,5.0,2.0,90.0,92.0,Excellent,2.0
+1025.0,Hassan,Marketing,Data Cleaning,2026-04-03,2026-04-06,5.0,2.0,3.0,50.0,58.5,Needs Improvement,3.0
+1026.0,Ali,Finance,Power BI Visualization,2026-04-30,2026-05-03,8.0,5.0,3.0,80.0,85.5,Excellent,3.0
+1027.0,Zain,Finance,Customer Analysis,2026-04-05,2026-04-10,6.0,5.0,5.0,60.0,72.5,Good,5.0
+1028.0,Sara,HR,Website Audit,2026-01-03,2026-01-08,5.0,5.0,5.0,50.0,67.5,Needs Improvement,5.0
+1029.0,Usman,Finance,Attendance Tracker,2026-03-02,2026-03-04,9.0,5.0,2.0,90.0,92.0,Excellent,2.0
+1030.0,Ali,Marketing,Excel Automation,2026-04-04,2026-04-07,7.0,5.0,3.0,70.0,80.5,Good,3.0
+1031.0,Hamza,UI/UX,Power BI Visualization,2026-04-13,2026-04-16,10.0,3.0,3.0,100.0,87.5,Excellent,3.0
+1032.0,Hamza,Data Analytics,Power BI Visualization,2026-04-30,2026-05-05,5.0,3.0,5.0,50.0,59.5,Needs Improvement,5.0
+1033.0,Ali,Data Analytics,Dashboard Design,2026-01-10,2026-01-16,6.0,3.0,6.0,60.0,63.0,Needs Improvement,6.0
+1034.0,Usman,Marketing,Dashboard Design,2026-04-13,2026-04-17,6.0,5.0,4.0,60.0,74.0,Good,4.0
+1035.0,Ayesha,Finance,SQL Report,2026-02-23,2026-03-01,10.0,3.0,6.0,100.0,83.0,Good,6.0
+1036.0,Ali,UI/UX,SQL Report,2026-04-10,2026-04-13,6.0,2.0,3.0,60.0,63.5,Needs Improvement,3.0
+1037.0,Usman,Marketing,Excel Automation,2026-03-23,2026-03-29,5.0,3.0,6.0,50.0,58.0,Needs Improvement,6.0
+1038.0,Sara,HR,Dashboard Design,2026-03-13,2026-03-18,7.0,5.0,5.0,70.0,77.5,Good,5.0
+1039.0,Usman,Finance,Website Audit,2026-03-14,2026-03-19,5.0,3.0,5.0,50.0,59.5,Needs Improvement,5.0
+1040.0,Ayesha,Marketing,Attendance Tracker,2026-01-09,2026-01-12,8.0,4.0,3.0,80.0,81.5,Good,3.0
+1041.0,Ali,Data Analytics,Excel Automation,2026-03-22,2026-03-27,10.0,4.0,5.0,100.0,88.5,Excellent,5.0
+1042.0,Usman,Finance,Market Research,2026-04-20,2026-04-24,10.0,3.0,4.0,100.0,86.0,Excellent,4.0
+1043.0,Ahmed,HR,Power BI Visualization,2026-03-01,2026-03-08,6.0,5.0,7.0,60.0,69.5,Needs Improvement,7.0
+1044.0,Noor,Finance,Power BI Visualization,2026-03-12,2026-03-17,6.0,5.0,5.0,60.0,72.5,Good,5.0
+1045.0,Fatima,UI/UX,Power BI Visualization,2026-01-25,2026-01-31,10.0,2.0,6.0,100.0,79.0,Good,6.0
+1046.0,Ahmed,Finance,Excel Automation,2026-03-24,2026-03-29,7.0,2.0,5.0,70.0,65.5,Needs Improvement,5.0
+1047.0,Hamza,Finance,SQL Report,2026-02-25,2026-03-03,10.0,4.0,6.0,100.0,87.0,Excellent,6.0
+1048.0,Fatima,Marketing,Performance Analysis,2026-02-02,2026-02-07,10.0,4.0,5.0,100.0,88.5,Excellent,5.0
+1049.0,Usman,HR,Dashboard Design,2026-03-08,2026-03-14,8.0,4.0,6.0,80.0,77.0,Good,6.0
+1050.0,Noor,HR,Data Cleaning,2026-02-10,2026-02-11,8.0,4.0,1.0,80.0,84.5,Good,1.0
+1051.0,Ali,Marketing,Dashboard Design,2026-04-29,2026-05-05,8.0,2.0,6.0,80.0,69.0,Needs Improvement,6.0
+1052.0,Ali,UI/UX,Performance Analysis,2026-03-02,2026-03-07,9.0,5.0,5.0,90.0,87.5,Excellent,5.0
+1053.0,Ayesha,Marketing,Data Cleaning,2026-01-22,2026-01-27,8.0,4.0,5.0,80.0,78.5,Good,5.0
+1054.0,Hamza,UI/UX,Attendance Tracker,2026-04-12,2026-04-15,7.0,5.0,3.0,70.0,80.5,Good,3.0
+1055.0,Usman,Marketing,Data Cleaning,2026-02-27,2026-03-02,8.0,4.0,3.0,80.0,81.5,Good,3.0
+1056.0,Ali,Finance,Dashboard Design,2026-01-16,2026-01-20,9.0,3.0,4.0,90.0,81.0,Good,4.0
+1057.0,Ali,Finance,SQL Report,2026-01-14,2026-01-15,5.0,3.0,1.0,50.0,65.5,Needs Improvement,1.0
+1058.0,Usman,Finance,Performance Analysis,2026-03-05,2026-03-10,8.0,5.0,5.0,80.0,82.5,Good,5.0
+1059.0,Usman,Data Analytics,Dashboard Design,2026-01-21,2026-01-26,8.0,5.0,5.0,80.0,82.5,Good,5.0
+1060.0,Sara,Data Analytics,Market Research,2026-02-28,2026-03-01,6.0,2.0,1.0,60.0,66.5,Needs Improvement,1.0
+1061.0,Fatima,Finance,Website Audit,2026-01-27,2026-01-31,10.0,5.0,4.0,100.0,94.0,Excellent,4.0
+1062.0,Usman,Finance,Attendance Tracker,2026-04-29,2026-05-04,7.0,3.0,5.0,70.0,69.5,Needs Improvement,5.0
+1063.0,Fatima,HR,Market Research,2026-01-14,2026-01-19,8.0,5.0,5.0,80.0,82.5,Good,5.0
+1064.0,Zain,Finance,Dashboard Design,2026-04-11,2026-04-15,10.0,2.0,4.0,100.0,82.0,Good,4.0
+1065.0,Fatima,Data Analytics,Dashboard Design,2026-01-21,2026-01-24,8.0,3.0,3.0,80.0,77.5,Good,3.0
+1066.0,Noor,Data Analytics,Market Research,2026-03-04,2026-03-10,7.0,5.0,6.0,70.0,76.0,Good,6.0
+1067.0,Zain,HR,Excel Automation,2026-03-09,2026-03-13,5.0,4.0,4.0,50.0,65.0,Needs Improvement,4.0
+1068.0,Fatima,Marketing,Market Research,2026-04-22,2026-04-25,5.0,5.0,3.0,50.0,70.5,Good,3.0
+1069.0,Zain,Data Analytics,Attendance Tracker,2026-02-01,2026-02-03,5.0,2.0,2.0,50.0,60.0,Needs Improvement,2.0
+1070.0,Hamza,Data Analytics,Website Audit,2026-02-20,2026-02-24,5.0,2.0,4.0,50.0,57.0,Needs Improvement,4.0
+1071.0,Ayesha,HR,Customer Analysis,2026-01-19,2026-01-25,7.0,2.0,6.0,70.0,64.0,Needs Improvement,6.0
+1072.0,Zain,Data Analytics,Dashboard Design,2026-03-13,2026-03-15,8.0,2.0,2.0,80.0,75.0,Good,2.0
+1073.0,Usman,UI/UX,Market Research,2026-02-07,2026-02-10,5.0,4.0,3.0,50.0,66.5,Needs Improvement,3.0
+1074.0,Ahmed,Finance,SQL Report,2026-01-25,2026-01-27,8.0,3.0,2.0,80.0,79.0,Good,2.0
+1075.0,Hamza,Finance,Excel Automation,2026-04-13,2026-04-18,7.0,4.0,5.0,70.0,73.5,Good,5.0
+1076.0,Zain,Finance,Market Research,2026-04-18,2026-04-20,7.0,2.0,2.0,70.0,70.0,Good,2.0
+1077.0,Noor,HR,SQL Report,2026-01-07,2026-01-12,9.0,5.0,5.0,90.0,87.5,Excellent,5.0
+1078.0,Usman,HR,Market Research,2026-01-23,2026-01-25,9.0,4.0,2.0,90.0,88.0,Excellent,2.0
+1079.0,Hassan,Finance,Power BI Visualization,2026-02-16,2026-02-18,10.0,5.0,2.0,100.0,97.0,Excellent,2.0
+1080.0,Usman,HR,Power BI Visualization,2026-01-27,2026-01-31,10.0,5.0,4.0,100.0,94.0,Excellent,4.0
+1081.0,Usman,HR,SQL Report,2026-01-06,2026-01-12,6.0,3.0,6.0,60.0,63.0,Needs Improvement,6.0
+1082.0,Ahmed,UI/UX,Excel Automation,2026-02-10,2026-02-13,7.0,4.0,3.0,70.0,76.5,Good,3.0
+1083.0,Usman,Finance,Power BI Visualization,2026-01-09,2026-01-12,5.0,3.0,3.0,50.0,62.5,Needs Improvement,3.0
+1084.0,Ayesha,HR,Excel Automation,2026-04-01,2026-04-02,6.0,5.0,1.0,60.0,78.5,Good,1.0
+1085.0,Ayesha,Data Analytics,Attendance Tracker,2026-02-10,2026-02-13,6.0,4.0,3.0,60.0,71.5,Good,3.0
+1086.0,Zain,Finance,Website Audit,2026-01-06,2026-01-12,6.0,3.0,6.0,60.0,63.0,Needs Improvement,6.0
+1087.0,Hamza,UI/UX,Dashboard Design,2026-02-16,2026-02-19,5.0,4.0,3.0,50.0,66.5,Needs Improvement,3.0
+1088.0,Noor,Data Analytics,Excel Automation,2026-02-12,2026-02-17,9.0,2.0,5.0,90.0,75.5,Good,5.0
+1089.0,Zain,UI/UX,Data Cleaning,2026-03-11,2026-03-13,5.0,4.0,2.0,50.0,68.0,Needs Improvement,2.0
+1090.0,Hamza,HR,Dashboard Design,2026-03-02,2026-03-08,7.0,4.0,6.0,70.0,72.0,Good,6.0
+1091.0,Ali,UI/UX,Attendance Tracker,2026-03-10,2026-03-11,10.0,3.0,1.0,100.0,90.5,Excellent,1.0
+1092.0,Ali,Data Analytics,Power BI Visualization,2026-03-06,2026-03-13,6.0,2.0,7.0,60.0,57.5,Needs Improvement,7.0
+1093.0,Sara,HR,Website Audit,2026-05-01,2026-05-04,9.0,5.0,3.0,90.0,90.5,Excellent,3.0
+1094.0,Ali,Marketing,Excel Automation,2026-01-08,2026-01-10,5.0,4.0,2.0,50.0,68.0,Needs Improvement,2.0
+1095.0,Noor,Marketing,Dashboard Design,2026-04-18,2026-04-20,8.0,2.0,2.0,80.0,75.0,Good,2.0
+1096.0,Hassan,Marketing,Power BI Visualization,2026-03-15,2026-03-18,7.0,4.0,3.0,70.0,76.5,Good,3.0
+1097.0,Ali,HR,Data Cleaning,2026-04-26,2026-04-28,10.0,2.0,2.0,100.0,85.0,Excellent,2.0
+1098.0,Ayesha,Marketing,Dashboard Design,2026-01-18,2026-01-21,10.0,2.0,3.0,100.0,83.5,Good,3.0
+1099.0,Ahmed,UI/UX,Excel Automation,2026-04-23,2026-04-24,8.0,2.0,1.0,80.0,76.5,Good,1.0
+1100.0,Sara,HR,Data Cleaning,2026-04-05,2026-04-09,10.0,2.0,4.0,100.0,82.0,Good,4.0
+1101.0,Noor,HR,Attendance Tracker,2026-01-24,2026-01-27,9.0,3.0,3.0,90.0,82.5,Good,3.0
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+100.0,,,,,,,,,,,,
+100.0,,,,,,,,,,,,
+7.42,,,,,,,,,,,,
+3.65,,,,,,,,,,,,

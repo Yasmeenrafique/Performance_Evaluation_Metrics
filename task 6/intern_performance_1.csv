@@ -1,0 +1,101 @@
+﻿intern_id,intern_name,department,task_name,assigned_date,submitted_date,quality_score,mentor_rating,task_completion_days,quality_percent,overall_score,status
+1002,Hassan,Marketing,Market Research,3/27/2026,3/29/2026,6,3,2,60,69,Needs Improvement
+1003,Hamza,Data Analytics,Market Research,4/13/2026,4/20/2026,7,5,7,70,74.5,Good
+1004,Ali,HR,SQL Report,3/20/2026,3/25/2026,6,3,5,60,64.5,Needs Improvement
+1005,Hamza,Marketing,Website Audit,4/27/2026,5/2/2026,7,5,5,70,77.5,Good
+1006,Sara,Finance,Performance Analysis,2/20/2026,2/24/2026,7,5,4,70,79,Good
+1007,Sara,UI/UX,Performance Analysis,1/31/2026,2/4/2026,10,4,4,100,90,Excellent
+1008,Noor,Finance,Customer Analysis,4/10/2026,4/13/2026,5,2,3,50,58.5,Needs Improvement
+1009,Ayesha,HR,Excel Automation,4/30/2026,5/2/2026,5,5,2,50,72,Good
+1010,Usman,Finance,Performance Analysis,3/13/2026,3/14/2026,10,3,1,100,90.5,Excellent
+1011,Hamza,HR,Power BI Visualization,1/16/2026,1/17/2026,6,2,1,60,66.5,Needs Improvement
+1012,Hamza,Data Analytics,Excel Automation,1/31/2026,2/1/2026,8,5,1,80,88.5,Excellent
+1013,Sara,UI/UX,SQL Report,4/10/2026,4/11/2026,8,3,1,80,80.5,Good
+1014,Ahmed,HR,Customer Analysis,1/20/2026,1/27/2026,6,3,7,60,61.5,Needs Improvement
+1015,Usman,HR,SQL Report,4/1/2026,4/7/2026,7,5,6,70,76,Good
+1016,Zain,Data Analytics,Attendance Tracker,3/20/2026,3/25/2026,7,5,5,70,77.5,Good
+1017,Sara,Data Analytics,Excel Automation,1/14/2026,1/20/2026,8,5,6,80,81,Good
+1018,Hamza,Marketing,Market Research,4/1/2026,4/3/2026,10,3,2,100,89,Excellent
+1019,Ayesha,Data Analytics,Excel Automation,3/5/2026,3/10/2026,7,5,5,70,77.5,Good
+1020,Ayesha,Data Analytics,Power BI Visualization,3/24/2026,3/25/2026,9,2,1,90,81.5,Good
+1021,Ahmed,UI/UX,Market Research,1/5/2026,1/11/2026,8,3,6,80,73,Good
+1022,Hamza,Marketing,Dashboard Design,3/23/2026,3/26/2026,6,4,3,60,71.5,Good
+1023,Usman,HR,Performance Analysis,3/6/2026,3/13/2026,7,5,7,70,74.5,Good
+1024,Ali,Marketing,Attendance Tracker,4/23/2026,4/25/2026,9,5,2,90,92,Excellent
+1025,Hassan,Marketing,Data Cleaning,4/3/2026,4/6/2026,5,2,3,50,58.5,Needs Improvement
+1026,Ali,Finance,Power BI Visualization,4/30/2026,5/3/2026,8,5,3,80,85.5,Excellent
+1027,Zain,Finance,Customer Analysis,4/5/2026,4/10/2026,6,5,5,60,72.5,Good
+1028,Sara,HR,Website Audit,1/3/2026,1/8/2026,5,5,5,50,67.5,Needs Improvement
+1029,Usman,Finance,Attendance Tracker,3/2/2026,3/4/2026,9,5,2,90,92,Excellent
+1030,Ali,Marketing,Excel Automation,4/4/2026,4/7/2026,7,5,3,70,80.5,Good
+1031,Hamza,UI/UX,Power BI Visualization,4/13/2026,4/16/2026,10,3,3,100,87.5,Excellent
+1032,Hamza,Data Analytics,Power BI Visualization,4/30/2026,5/5/2026,5,3,5,50,59.5,Needs Improvement
+1033,Ali,Data Analytics,Dashboard Design,1/10/2026,1/16/2026,6,3,6,60,63,Needs Improvement
+1034,Usman,Marketing,Dashboard Design,4/13/2026,4/17/2026,6,5,4,60,74,Good
+1035,Ayesha,Finance,SQL Report,2/23/2026,3/1/2026,10,3,6,100,83,Good
+1036,Ali,UI/UX,SQL Report,4/10/2026,4/13/2026,6,2,3,60,63.5,Needs Improvement
+1037,Usman,Marketing,Excel Automation,3/23/2026,3/29/2026,5,3,6,50,58,Needs Improvement
+1038,Sara,HR,Dashboard Design,3/13/2026,3/18/2026,7,5,5,70,77.5,Good
+1039,Usman,Finance,Website Audit,3/14/2026,3/19/2026,5,3,5,50,59.5,Needs Improvement
+1040,Ayesha,Marketing,Attendance Tracker,1/9/2026,1/12/2026,8,4,3,80,81.5,Good
+1041,Ali,Data Analytics,Excel Automation,3/22/2026,3/27/2026,10,4,5,100,88.5,Excellent
+1042,Usman,Finance,Market Research,4/20/2026,4/24/2026,10,3,4,100,86,Excellent
+1043,Ahmed,HR,Power BI Visualization,3/1/2026,3/8/2026,6,5,7,60,69.5,Needs Improvement
+1044,Noor,Finance,Power BI Visualization,3/12/2026,3/17/2026,6,5,5,60,72.5,Good
+1045,Fatima,UI/UX,Power BI Visualization,1/25/2026,1/31/2026,10,2,6,100,79,Good
+1046,Ahmed,Finance,Excel Automation,3/24/2026,3/29/2026,7,2,5,70,65.5,Needs Improvement
+1047,Hamza,Finance,SQL Report,2/25/2026,3/3/2026,10,4,6,100,87,Excellent
+1048,Fatima,Marketing,Performance Analysis,2/2/2026,2/7/2026,10,4,5,100,88.5,Excellent
+1049,Usman,HR,Dashboard Design,3/8/2026,3/14/2026,8,4,6,80,77,Good
+1050,Noor,HR,Data Cleaning,2/10/2026,2/11/2026,8,4,1,80,84.5,Good
+1051,Ali,Marketing,Dashboard Design,4/29/2026,5/5/2026,8,2,6,80,69,Needs Improvement
+1052,Ali,UI/UX,Performance Analysis,3/2/2026,3/7/2026,9,5,5,90,87.5,Excellent
+1053,Ayesha,Marketing,Data Cleaning,1/22/2026,1/27/2026,8,4,5,80,78.5,Good
+1054,Hamza,UI/UX,Attendance Tracker,4/12/2026,4/15/2026,7,5,3,70,80.5,Good
+1055,Usman,Marketing,Data Cleaning,2/27/2026,3/2/2026,8,4,3,80,81.5,Good
+1056,Ali,Finance,Dashboard Design,1/16/2026,1/20/2026,9,3,4,90,81,Good
+1057,Ali,Finance,SQL Report,1/14/2026,1/15/2026,5,3,1,50,65.5,Needs Improvement
+1058,Usman,Finance,Performance Analysis,3/5/2026,3/10/2026,8,5,5,80,82.5,Good
+1059,Usman,Data Analytics,Dashboard Design,1/21/2026,1/26/2026,8,5,5,80,82.5,Good
+1060,Sara,Data Analytics,Market Research,2/28/2026,3/1/2026,6,2,1,60,66.5,Needs Improvement
+1061,Fatima,Finance,Website Audit,1/27/2026,1/31/2026,10,5,4,100,94,Excellent
+1062,Usman,Finance,Attendance Tracker,4/29/2026,5/4/2026,7,3,5,70,69.5,Needs Improvement
+1063,Fatima,HR,Market Research,1/14/2026,1/19/2026,8,5,5,80,82.5,Good
+1064,Zain,Finance,Dashboard Design,4/11/2026,4/15/2026,10,2,4,100,82,Good
+1065,Fatima,Data Analytics,Dashboard Design,1/21/2026,1/24/2026,8,3,3,80,77.5,Good
+1066,Noor,Data Analytics,Market Research,3/4/2026,3/10/2026,7,5,6,70,76,Good
+1067,Zain,HR,Excel Automation,3/9/2026,3/13/2026,5,4,4,50,65,Needs Improvement
+1068,Fatima,Marketing,Market Research,4/22/2026,4/25/2026,5,5,3,50,70.5,Good
+1069,Zain,Data Analytics,Attendance Tracker,2/1/2026,2/3/2026,5,2,2,50,60,Needs Improvement
+1070,Hamza,Data Analytics,Website Audit,2/20/2026,2/24/2026,5,2,4,50,57,Needs Improvement
+1071,Ayesha,HR,Customer Analysis,1/19/2026,1/25/2026,7,2,6,70,64,Needs Improvement
+1072,Zain,Data Analytics,Dashboard Design,3/13/2026,3/15/2026,8,2,2,80,75,Good
+1073,Usman,UI/UX,Market Research,2/7/2026,2/10/2026,5,4,3,50,66.5,Needs Improvement
+1074,Ahmed,Finance,SQL Report,1/25/2026,1/27/2026,8,3,2,80,79,Good
+1075,Hamza,Finance,Excel Automation,4/13/2026,4/18/2026,7,4,5,70,73.5,Good
+1076,Zain,Finance,Market Research,4/18/2026,4/20/2026,7,2,2,70,70,Good
+1077,Noor,HR,SQL Report,1/7/2026,1/12/2026,9,5,5,90,87.5,Excellent
+1078,Usman,HR,Market Research,1/23/2026,1/25/2026,9,4,2,90,88,Excellent
+1079,Hassan,Finance,Power BI Visualization,2/16/2026,2/18/2026,10,5,2,100,97,Excellent
+1080,Usman,HR,Power BI Visualization,1/27/2026,1/31/2026,10,5,4,100,94,Excellent
+1081,Usman,HR,SQL Report,1/6/2026,1/12/2026,6,3,6,60,63,Needs Improvement
+1082,Ahmed,UI/UX,Excel Automation,2/10/2026,2/13/2026,7,4,3,70,76.5,Good
+1083,Usman,Finance,Power BI Visualization,1/9/2026,1/12/2026,5,3,3,50,62.5,Needs Improvement
+1084,Ayesha,HR,Excel Automation,4/1/2026,4/2/2026,6,5,1,60,78.5,Good
+1085,Ayesha,Data Analytics,Attendance Tracker,2/10/2026,2/13/2026,6,4,3,60,71.5,Good
+1086,Zain,Finance,Website Audit,1/6/2026,1/12/2026,6,3,6,60,63,Needs Improvement
+1087,Hamza,UI/UX,Dashboard Design,2/16/2026,2/19/2026,5,4,3,50,66.5,Needs Improvement
+1088,Noor,Data Analytics,Excel Automation,2/12/2026,2/17/2026,9,2,5,90,75.5,Good
+1089,Zain,UI/UX,Data Cleaning,3/11/2026,3/13/2026,5,4,2,50,68,Needs Improvement
+1090,Hamza,HR,Dashboard Design,3/2/2026,3/8/2026,7,4,6,70,72,Good
+1091,Ali,UI/UX,Attendance Tracker,3/10/2026,3/11/2026,10,3,1,100,90.5,Excellent
+1092,Ali,Data Analytics,Power BI Visualization,3/6/2026,3/13/2026,6,2,7,60,57.5,Needs Improvement
+1093,Sara,HR,Website Audit,5/1/2026,5/4/2026,9,5,3,90,90.5,Excellent
+1094,Ali,Marketing,Excel Automation,1/8/2026,1/10/2026,5,4,2,50,68,Needs Improvement
+1095,Noor,Marketing,Dashboard Design,4/18/2026,4/20/2026,8,2,2,80,75,Good
+1096,Hassan,Marketing,Power BI Visualization,3/15/2026,3/18/2026,7,4,3,70,76.5,Good
+1097,Ali,HR,Data Cleaning,4/26/2026,4/28/2026,10,2,2,100,85,Excellent
+1098,Ayesha,Marketing,Dashboard Design,1/18/2026,1/21/2026,10,2,3,100,83.5,Good
+1099,Ahmed,UI/UX,Excel Automation,4/23/2026,4/24/2026,8,2,1,80,76.5,Good
+1100,Sara,HR,Data Cleaning,4/5/2026,4/9/2026,10,2,4,100,82,Good
+1101,Noor,HR,Attendance Tracker,1/24/2026,1/27/2026,9,3,3,90,82.5,Good
