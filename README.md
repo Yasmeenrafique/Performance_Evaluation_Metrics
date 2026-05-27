@@ -123,6 +123,4 @@ ORDER BY avg_score DESC;
 
 
 
-## 📝 License
 
-This project is for internal use only. All data is confidential.
